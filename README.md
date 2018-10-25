@@ -6,3 +6,6 @@ Recognize emoji for the sentiment. Uses Glove Embeddings.
 
 NOTE: If you are downloading this model, use glove embedding file by your own. 
 It is based on Andrew Ng's assignment, but have some changes and different dataset is used
+
+# How it look?
+
