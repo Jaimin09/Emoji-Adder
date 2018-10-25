@@ -7,5 +7,6 @@ Recognize emoji for the sentiment. Uses Glove Embeddings.
 NOTE: If you are downloading this model, use glove embedding file by your own. 
 It is based on Andrew Ng's assignment, but have some changes and different dataset is used
 
-# How it look?
+## How it look?
+![screenshot 24](https://user-images.githubusercontent.com/37634919/47502658-04a5eb80-d886-11e8-8428-bdd2a7edf64e.png)
 
